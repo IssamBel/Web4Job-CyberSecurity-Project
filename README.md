@@ -23,8 +23,8 @@
 Clone le projet :
 
 ```bash
-git clone https://github.com/issambelayachi/CyberScan.git
-cd CyberScan
+git clone https://github.com/issambel/Web4Job-CyberSecurity-Project.git
+cd Web4Job-CyberSecurity-Project
 chmod +x cyber_scan.sh
 ```
 Lance le script :
